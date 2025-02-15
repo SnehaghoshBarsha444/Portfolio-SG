@@ -101,7 +101,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/commons/3/33/University_icon.svg",
+    img: "https://static.vecteezy.com/system/resources/previews/000/592/910/original/vector-school-icon.jpg",
     school: "Bachelor of Computer Applications (BCA)",
     date: "2024 - Present",
     grade: "Ongoing",
@@ -110,7 +110,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/97/School_icon.svg",
+    img: "https://static.vecteezy.com/system/resources/previews/000/592/910/original/vector-school-icon.jpg",
     school: "Sodepur Chandrachur Vidyapith For Girls’ (H.S)",
     date: "2022 - 2024",
     grade: "West Bengal Council of Higher Secondary Education",
@@ -119,7 +119,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/97/School_icon.svg",
+    img: "https://static.vecteezy.com/system/resources/previews/000/592/910/original/vector-school-icon.jpg",
     school: "Sodepur Chandrachur Vidyapith For Girls’ (H.S)",
     date: "2010 - 2022",
     grade: "West Bengal Board of Secondary Education",
