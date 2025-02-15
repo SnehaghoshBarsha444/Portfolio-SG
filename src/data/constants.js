@@ -80,7 +80,8 @@ export const skills = [
       { name: "Kotlin",
         image:
           "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-      },
+      }
+  ],
 ];
 export const experiences = [
   {
@@ -119,9 +120,8 @@ export const experiences = [
     date: "2024",
     desc: "Contributed to various open-source projects, collaborated on software development, and enhanced my coding skills.",
     skills: ["Open Source", "GitHub", "Collaboration", "Software Development"],
-  },
+  }
 ];
-
 
 export const education = [
   {
