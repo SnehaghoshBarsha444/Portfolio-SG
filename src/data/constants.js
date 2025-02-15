@@ -71,8 +71,17 @@ export const skills = [
       { name: "Technical Writing", image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Technical_Writing_Icon.svg" },
     ],
   },
+  title: "Android",
+    skills: [
+      { name: "Java",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+      },
+      { name: "Kotlin",
+        image:
+          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+      },
 ];
-
 export const experiences = [
   {
     id: 0,
