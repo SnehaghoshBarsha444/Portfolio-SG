@@ -11,7 +11,7 @@ export const Bio = {
     
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a passionate and driven individual, always ready to take on new challenges with curiosity and determination. With a strong love for learning, I strive for excellence in everything I do. Discipline, punctuality, and integrity define my approach, and I believe in making an impact through my skills and dedication. I embrace innovation, value authenticity, and am always eager to contribute meaningfully while staying true to myself. 🚀",
   github: "https://github.com/SnehaghoshBarsha444",
 };
 
