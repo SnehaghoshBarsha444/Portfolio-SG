@@ -7,14 +7,8 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SnehaghoshBarsha444",
-  // resume:
-  //   "",
-  // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  // twitter: "https://twitter.com/RishavChanda",
-  // insta: "https://www.instagram.com/rishav_chanda/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
 
 export const skills = [
@@ -49,15 +43,6 @@ export const skills = [
     ],
   },
   {
-    title: "Other Tools & Technologies",
-    skills: [
-      { name: "GitHub", image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" },
-      { name: "Figma", image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" },
-      { name: "MS Office Suite", image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" },
-      { name: "Cybersecurity Essentials", image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Computer_security.svg" },
-    ],
-  },
-  {
     title: "Cybersecurity & Ethical Hacking",
     skills: [
       { name: "Ethical Hacking", image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ethical-hacker-icon.svg" },
@@ -65,24 +50,14 @@ export const skills = [
     ],
   },
   {
-    title: "UI/UX & Technical Writing",
+    title: "Android",
     skills: [
-      { name: "UI/UX Design", image: "https://upload.wikimedia.org/wikipedia/commons/6/62/User_experience_design_icon.svg" },
-      { name: "Technical Writing", image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Technical_Writing_Icon.svg" },
+      { name: "Java", image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" },
+      { name: "Kotlin", image: "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" },
     ],
   },
-  title: "Android",
-    skills: [
-      { name: "Java",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-      },
-      { name: "Kotlin",
-        image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-      }
-  ],
 ];
+
 export const experiences = [
   {
     id: 0,
@@ -120,7 +95,7 @@ export const experiences = [
     date: "2024",
     desc: "Contributed to various open-source projects, collaborated on software development, and enhanced my coding skills.",
     skills: ["Open Source", "GitHub", "Collaboration", "Software Development"],
-  }
+  },
 ];
 
 export const education = [
@@ -154,7 +129,7 @@ export const education = [
 ];
 
 export const projects = [
-  {
+    {
     id: 0,
     title: "NASA Space Apps International Challenge 2024",
     date: "2024",
@@ -267,7 +242,7 @@ export const projects = [
     skills: ["Game Development", "Python", "Pygame", "Platformer", "2D Game", "AI-Based Enemies"],
     doc: "https://github.com/SnehaghoshBarsha444/Iso2DTrek-PlatformerGame",
   },
-{
+  {
     id: 10,
     img: "https://upload.wikimedia.org/wikipedia/commons/7/72/Ping_Pong_Icon.svg",
     role: "Game Developer",
@@ -278,5 +253,4 @@ export const projects = [
     doc: "https://github.com/SnehaghoshBarsha444/Ping-Pong-Game-Pears",
     webapp: "https://p2p-game.vercel.app/",
   },
-
 ];
